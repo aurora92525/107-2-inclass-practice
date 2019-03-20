@@ -45,3 +45,4 @@ as.integer(birthplace)
 stringInteger <- c("1","2","-11")
 class(stringInteger) # 無法進行數值運算
 
+Sys.timezone()
