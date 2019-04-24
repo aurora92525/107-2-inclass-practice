@@ -69,3 +69,9 @@ class(StuDF4)
 StuDF4
 ```
 
+```{r}
+chosenletter <- LETTERS[1:15]
+lettermatrix <- matrix(chosenletter,3)
+lettermatrix
+```
+
